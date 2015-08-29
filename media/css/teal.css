@@ -1,0 +1,61 @@
+/* COLOUR.CSS */
+.logo {
+	background-color: rgb(121, 189, 154) ;
+}
+
+*::selection {
+	background-color: rgb(121,189,154);
+	background-color: rgba(121,189,154,0.85);
+	color: rgb(255, 255, 255);
+}
+
+*::-moz-selection {
+	background-color: rgb(121,189,154);
+	background-color: rgba(121,189,154,0.85);
+	color: rgb(255, 255, 255);
+}
+
+a:hover,
+a:active, 
+a:focus,
+.highlight,
+.button,
+button,
+input[type="submit"],
+input[type="reset"],
+input[type="button"] {
+	background-color: rgb(121,189,154);
+	background-color: rgba(121,189,154,0.85);	
+	color: rgb( 255, 255, 255 );
+}
+
+.button:hover,
+button:hover,
+input[type="submit"]:hover,
+input[type="reset"]:hover,
+input[type="button"]:hover {	
+	background-color: rgb(121,189,154);
+	color: rgb( 236, 236, 236 );
+}
+
+article h1,
+article h2,
+article h3,
+.sticky_wrap i,
+#primary_navigation a:hover {
+	color: rgb(121,189,154);
+}
+
+#site_footer a:hover,
+#site_footer a:focus,
+#site_footer a:active,
+.format-quote .attribution::selection {
+	color: rgb( 255, 255, 255 );
+}
+
+.flex-prev,
+.flex-next {
+	background-color: rgb(121,189,154);
+	background-color: rgba(121,189,154,0.8);
+	color: rgb(255, 255, 255);
+}

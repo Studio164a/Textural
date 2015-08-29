@@ -1,0 +1,656 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Textural Wordpress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-07 11:11+0930\n"
+"PO-Revision-Date: 2013-10-07 11:11+0930\n"
+"Last-Translator: Eric Daams <eric@164a.com>\n"
+"Language-Team: Studio164a\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:10
+msgid "404 Error"
+msgstr ""
+
+#: ../404.php:11
+msgid "We're sorry, but it seems that you have reached a dead end."
+msgstr ""
+
+#: ../404.php:12 ../header.php:15
+msgid "Return home"
+msgstr ""
+
+#: ../adjacent.php:2 ../inc/template-tags.php:58 ../inc/template-tags.php:74
+msgid "Post navigation"
+msgstr ""
+
+#: ../after-content.php:7
+msgid "Written by:"
+msgstr ""
+
+#: ../after-content.php:9
+msgid "Go to author profile"
+msgstr ""
+
+#: ../after-content.php:14
+msgid "Date posted: "
+msgstr ""
+
+#: ../after-content.php:18
+msgid "Posted in"
+msgstr ""
+
+#: ../archive.php:10
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:12
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:12
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:14
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:14
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:16
+msgid "Archives"
+msgstr ""
+
+#: ../author.php:17
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../category.php:9
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../comments.php:5
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:21
+#, php-format
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:28
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:29
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:33 ../comments.php:53
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:71
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../comments.php:72
+msgid " Required fields are marked *"
+msgstr ""
+
+#: ../comments.php:74
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:75
+msgid "Leave a comment"
+msgstr ""
+
+#: ../comments.php:76
+msgctxt "post comment"
+msgid "Submit"
+msgstr ""
+
+#: ../content-archives.php:21
+msgid "Last 30 posts"
+msgstr ""
+
+#: ../content-archives.php:50
+msgid "Posts by month"
+msgstr ""
+
+#: ../content-archives.php:55
+msgid "Posts by week"
+msgstr ""
+
+#: ../content-archives.php:60
+msgid "Authors"
+msgstr ""
+
+#: ../content-archives.php:69
+msgid "Pages"
+msgstr ""
+
+#: ../content-archives.php:74
+msgid "Categories"
+msgstr ""
+
+#: ../content-archives.php:79
+msgid "Tags"
+msgstr ""
+
+#: ../content-audio.php:39
+msgid "repeat off"
+msgstr ""
+
+#: ../content-audio.php:50
+msgid "Update Required:"
+msgstr ""
+
+#: ../content-audio.php:51
+msgid ""
+"To play the media you will need to either update your browser to a recent "
+"version or update your <a href=\"http://get.adobe.com/flashplayer/\" target="
+"\"_blank\">Flash plugin</a>."
+msgstr ""
+
+#: ../content-quote.php:5 ../featured-image.php:12 ../slider.php:19
+#, php-format
+msgid "Go to %s"
+msgstr ""
+
+#: ../functions.php:151
+msgid "Share"
+msgstr ""
+
+#: ../functions.php:266
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../functions.php:279
+msgid "Footer left"
+msgstr ""
+
+#: ../functions.php:286
+msgid "Footer middle"
+msgstr ""
+
+#: ../functions.php:295
+msgid "Footer right"
+msgstr ""
+
+#: ../functions.php:316
+msgid "Textural Options"
+msgstr ""
+
+#: ../functions.php:316
+msgid "Textural Theme Settings"
+msgstr ""
+
+#: ../functions.php:317
+msgid "Customize"
+msgstr ""
+
+#: ../functions.php:375
+msgid "Continue"
+msgstr ""
+
+#: ../functions.php:395
+msgid "Earlier posts"
+msgstr ""
+
+#: ../functions.php:403
+msgid "Later posts"
+msgstr ""
+
+#: ../functions.php:417 ../searchform.php:2
+msgid "Search"
+msgstr ""
+
+#: ../functions.php:462
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../header.php:22
+msgid "Menu"
+msgstr ""
+
+#: ../search.php:9
+#, php-format
+msgid "You searched for: &#8220;%s&#8221;"
+msgstr ""
+
+#: ../tag.php:9
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../inc/comments.php:17
+msgid "Name"
+msgstr ""
+
+#: ../inc/comments.php:20
+msgid "Email"
+msgstr ""
+
+#: ../inc/comments.php:23
+msgid "Website"
+msgstr ""
+
+#: ../inc/comments.php:48
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/comments.php:49
+msgid "Edit"
+msgstr ""
+
+#: ../inc/comments.php:65
+msgctxt "comment post on date at time"
+msgid "at"
+msgstr ""
+
+#: ../inc/comments.php:66
+msgctxt "reply to comment"
+msgid "Reply"
+msgstr ""
+
+#: ../inc/helpers.php:106
+msgid "Behance"
+msgstr ""
+
+#: ../inc/helpers.php:107
+msgid "Blogger"
+msgstr ""
+
+#: ../inc/helpers.php:108
+msgid "DeviantART"
+msgstr ""
+
+#: ../inc/helpers.php:109
+msgid "Digg"
+msgstr ""
+
+#: ../inc/helpers.php:110
+msgid "Dribbble"
+msgstr ""
+
+#: ../inc/helpers.php:111
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/helpers.php:112
+msgid "Flickr"
+msgstr ""
+
+#: ../inc/helpers.php:113
+msgid "Forrst"
+msgstr ""
+
+#: ../inc/helpers.php:114
+msgid "Google+"
+msgstr ""
+
+#: ../inc/helpers.php:115
+msgid "Last.fm"
+msgstr ""
+
+#: ../inc/helpers.php:116
+msgid "Linkedin"
+msgstr ""
+
+#: ../inc/helpers.php:117
+msgid "MySpace"
+msgstr ""
+
+#: ../inc/helpers.php:118
+msgid "Orkut"
+msgstr ""
+
+#: ../inc/helpers.php:119
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/helpers.php:120
+msgid "RSS"
+msgstr ""
+
+#: ../inc/helpers.php:121
+msgid "Stumbleupon"
+msgstr ""
+
+#: ../inc/helpers.php:122
+msgid "Tumblr"
+msgstr ""
+
+#: ../inc/helpers.php:123 ../inc/admin/theme-settings.php:54
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/helpers.php:124
+msgid "Viddler"
+msgstr ""
+
+#: ../inc/helpers.php:125
+msgid "Vimeo"
+msgstr ""
+
+#: ../inc/helpers.php:126
+msgid "YouTube"
+msgstr ""
+
+#: ../inc/helpers.php:127
+msgid "App.net"
+msgstr ""
+
+#: ../inc/template-tags.php:60
+msgid "There are no more posts."
+msgstr ""
+
+#: ../inc/template-tags.php:61
+msgid "Load more"
+msgstr ""
+
+#: ../inc/template-tags.php:69
+msgid "Older posts"
+msgstr ""
+
+#: ../inc/template-tags.php:70
+msgid "Newer posts"
+msgstr ""
+
+#: ../inc/template-tags.php:104
+#, php-format
+msgid "Link to %s"
+msgstr ""
+
+#: ../inc/template-tags.php:145
+msgid "Go to homepage"
+msgstr ""
+
+#: ../inc/admin/customize.php:51
+msgid "Logo"
+msgstr ""
+
+#: ../inc/admin/customize.php:58
+msgid "Retina version of logo (2x)"
+msgstr ""
+
+#: ../inc/admin/customize.php:63
+msgid "Hide the site title"
+msgstr ""
+
+#: ../inc/admin/customize.php:69
+msgid "Hide the tagline"
+msgstr ""
+
+#: ../inc/admin/customize.php:80
+msgid "Accent Colour"
+msgstr ""
+
+#: ../inc/admin/customize.php:86
+msgid "Skin"
+msgstr ""
+
+#: ../inc/admin/customize.php:90
+msgid "Light"
+msgstr ""
+
+#: ../inc/admin/customize.php:91
+msgid "Dark"
+msgstr ""
+
+#: ../inc/admin/customize.php:101
+msgid "Show search"
+msgstr ""
+
+#: ../inc/admin/customize.php:111
+msgid "Social"
+msgstr ""
+
+#: ../inc/admin/customize.php:112
+msgid "Set up links to your online social presences"
+msgstr ""
+
+#: ../inc/admin/theme-settings.php:21
+msgid "Textural Theme Options"
+msgstr ""
+
+#: ../inc/admin/theme-settings.php:24
+msgid "Theme settings updated successfully."
+msgstr ""
+
+#: ../inc/admin/theme-settings.php:52 ../inc/admin/theme-settings.php:57
+msgid "Google Analytics"
+msgstr ""
+
+#: ../inc/admin/theme-settings.php:53
+msgid "Flickr & Instagram"
+msgstr ""
+
+#: ../inc/admin/theme-settings.php:60
+msgid "Instagram access token"
+msgstr ""
+
+#: ../inc/admin/theme-settings.php:61
+msgid "Flickr API key"
+msgstr ""
+
+#: ../inc/admin/theme-settings.php:64
+msgid "Consumer key"
+msgstr ""
+
+#: ../inc/admin/theme-settings.php:65
+msgid "Consumer secret"
+msgstr ""
+
+#: ../inc/admin/theme-settings.php:66
+msgid "Access token"
+msgstr ""
+
+#: ../inc/admin/theme-settings.php:67
+msgid "Access token secret"
+msgstr ""
+
+#: ../inc/admin/theme-settings.php:88
+msgid ""
+"In order to use the Twitter widget, you are required to create an app "
+"through Twitter. Follow these simple steps:"
+msgstr ""
+
+#: ../inc/admin/theme-settings.php:90
+#, php-format
+msgid "Go to %s to register your app. You may be asked to log in."
+msgstr ""
+
+#: ../inc/admin/theme-settings.php:91
+#, php-format
+msgid ""
+"Once you are logged in, click the button that says %sCreate a new application"
+"%s."
+msgstr ""
+
+#: ../inc/admin/theme-settings.php:92
+msgid ""
+"Complete the form, tick the terms and conditions and solve the Captcha. "
+"Create your application."
+msgstr ""
+
+#: ../inc/admin/theme-settings.php:93
+msgid ""
+"You have now created a Twitter application. The final step is to create an "
+"access token. Do this by clicking the button at the bottom of the page."
+msgstr ""
+
+#: ../inc/admin/theme-settings.php:94
+msgid ""
+"Finally, copy and paste the relevant details about your Twitter application "
+"into the fields below."
+msgstr ""
+
+#: ../inc/admin/theme-settings.php:166
+#, php-format
+msgid "Don't have an access token for Instagram? %sGet one here.%s"
+msgstr ""
+
+#: ../inc/admin/theme-settings.php:180
+#, php-format
+msgid ""
+"You will require a Flickr API Key to use the Flickr widget or shortcode. "
+"%sGet one from Flickr.%s"
+msgstr ""
+
+#: ../inc/flickr/flickr.php:61
+#, php-format
+msgid "%sNo photos found for Flickr user.%s"
+msgstr ""
+
+#: ../inc/flickr/flickr.php:79
+msgid "Unable to fetch Flickr feed. No API Key set in theme settings."
+msgstr ""
+
+#: ../inc/flickr/flickr.php:88 ../inc/flickr/flickr.php:93
+#: ../inc/flickr/widget.php:78
+msgid "Invalid Flickr username."
+msgstr ""
+
+#: ../inc/flickr/flickr.php:107
+msgid "No Flickr API key set."
+msgstr ""
+
+#: ../inc/flickr/flickr.php:120
+msgid "Invalid Flickr username"
+msgstr ""
+
+#: ../inc/flickr/widget.php:12
+msgid "Display pictures from your Flickr gallery"
+msgstr ""
+
+#: ../inc/flickr/widget.php:21
+msgid "Flickr by 164a"
+msgstr ""
+
+#: ../inc/flickr/widget.php:32 ../inc/instagram/widget.php:30
+#: ../inc/twitter/widget.php:41
+msgid "Title:"
+msgstr ""
+
+#: ../inc/flickr/widget.php:37
+msgid "Your Username on Flickr:"
+msgstr ""
+
+#: ../inc/flickr/widget.php:42
+msgid "Number of Photos to Display:"
+msgstr ""
+
+#: ../inc/instagram/instagram.php:88
+msgid ""
+"Unable to fetch Instagram photos. No access token set in theme settings."
+msgstr ""
+
+#: ../inc/instagram/instagram.php:97 ../inc/instagram/instagram.php:128
+#: ../inc/instagram/widget.php:78
+msgid "Invalid Instagram username."
+msgstr ""
+
+#: ../inc/instagram/instagram.php:115
+msgid "No Instagram access token set."
+msgstr ""
+
+#: ../inc/instagram/instagram.php:165
+msgid "Unable to load images from Instagram"
+msgstr ""
+
+#: ../inc/instagram/widget.php:15
+msgid "Display your most recent Instagram photos."
+msgstr ""
+
+#: ../inc/instagram/widget.php:18
+msgid "Instagram by 164a"
+msgstr ""
+
+#: ../inc/instagram/widget.php:35
+msgid "Username:"
+msgstr ""
+
+#: ../inc/instagram/widget.php:40
+msgid "Number of photos to show:"
+msgstr ""
+
+#: ../inc/twitter/widget.php:8
+msgid "Display your most recent Twitter posts."
+msgstr ""
+
+#: ../inc/twitter/widget.php:11
+msgid "Twitter by 164a"
+msgstr ""
+
+#: ../inc/twitter/widget.php:16
+msgid "Tweets"
+msgstr ""
+
+#: ../inc/twitter/widget.php:35
+#, php-format
+msgid ""
+"Before using the Twitter widget, you need to set up Twitter integration on "
+"the %stheme settings page%s."
+msgstr ""
+
+#: ../inc/twitter/widget.php:46
+msgid "Twitter Username:"
+msgstr ""
+
+#: ../inc/twitter/widget.php:51
+msgid "Number of Tweets:"
+msgstr ""
+
+#: ../inc/twitter/widget.php:56
+msgid "Include retweets:"
+msgstr ""
+
+#: ../inc/twitter/widget.php:61
+msgid "Include replies:"
+msgstr ""
+
+#: ../inc/twitter/widget.php:99
+msgid "Missing Twitter app credentials."
+msgstr ""
+
+#: ../inc/twitter/widget.php:133
+msgctxt "time since item was posted"
+msgid "ago"
+msgstr ""
+
+#: ../inc/twitter/widget.php:138
+msgctxt "twitter profile link title attribute"
+msgid "Click to go to our Twitter profile"
+msgstr ""
+
+#: ../inc/twitter/widget.php:138
+msgid "Follow us on Twitter"
+msgstr ""
